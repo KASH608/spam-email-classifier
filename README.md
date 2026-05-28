@@ -1,18 +1,25 @@
-# AI Spam Email Detector
+# Spam Email Classifier
 
-AI-powered spam and phishing detector using Machine Learning.
+A Machine Learning web application that detects whether a message is Spam or Not Spam.
 
 ## Features
-- Spam Detection
-- Phishing Detection
-- Voice to Text
-- Excel Detection
-- Charts & Analytics
-- Login System
-- History Storage
 
-## Technologies
-- Python
-- Streamlit
-- Scikit-learn
-- Plotly
+* Predict spam messages
+* Simple user interface
+* Fast prediction
+* Live deployed website
+
+## Technologies Used
+
+* Python
+* Scikit-learn
+* Streamlit
+* Pandas
+
+## Live Website
+
+https://spam-email-classifier-jiscd83lbt7axetsed4t2e.streamlit.app/
+
+## GitHub Repository
+
+https://github.com/KASH608/spam-email-classifier
